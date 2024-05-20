@@ -70,26 +70,24 @@ Elastic Security là một phần quan trọng của Elastic Stack, cung cấp c
 - **Phân tích nâng cao**: Tích hợp các công cụ phân tích để nhận diện kịp thời các hành vi bất thường có thể chỉ ra hành vi gian lận hoặc rò rỉ thông tin.
 - **Hợp nhất bảo mật**: Sử dụng Elastic Security để tạo một hệ thống bảo mật hợp nhất, giúp giảm thiểu các điểm yếu và tăng cường khả năng bảo vệ thông tin toàn diện.
 
-# Phân tích khách hàng
+## 3 Phân tích khách hàng
 
-### Báo Cáo Chi Tiết Về Việc Áp Dụng Các Giải Pháp Elasticsearch, Observability và Security của Các Tổ Chức Trong Nhiều Ngành Nghề
-
-**1. Ngành Tài Chính**
+**1. Ngành Tài chính**
 - **ING**: Sử dụng Elasticsearch để quản lý và phân tích dữ liệu giao dịch tài chính một cách hiệu quả. ING đã tích hợp Elasticsearch vào các hệ thống để cải thiện khả năng tìm kiếm và phân tích dữ liệu thời gian thực, giúp tăng cường tính minh bạch và tốc độ phản hồi trong các giao dịch.
 - **Wells Fargo**: Ứng dụng Elastic Observability để giám sát hiệu suất của hệ thống IT và ứng dụng ngân hàng. Giải pháp này giúp Wells Fargo giảm đáng kể thời gian giải quyết sự cố, cải thiện thời gian hoạt động và tăng cường bảo mật thông tin cho khách hàng.
 - **Goldman Sachs**: Triển khai Elastic Security để phát hiện và phản hồi trước các mối đe dọa bảo mật. Bằng cách phân tích và giám sát liên tục các dấu hiệu bất thường, Goldman Sachs có thể chủ động ngăn chặn các cuộc tấn công, giảm thiểu rủi ro và bảo vệ tài sản của khách hàng.
 
-**2. Ngành Công Nghệ và Truyền Thông**
+**2. Ngành Công nghệ và Truyền thông**
 - **Cisco**: Tận dụng Elasticsearch để cải thiện và tối ưu hóa hệ thống hỗ trợ kỹ thuật. Công nghệ tìm kiếm tiên tiến này giúp tự động hóa quá trình phân loại và xử lý yêu cầu, từ đó nâng cao hiệu quả dịch vụ và sự hài lòng của khách hàng.
 - **Adobe**: Sử dụng Elastic Observability để giám sát các dịch vụ đám mây và ứng dụng, cung cấp cái nhìn sâu sắc về hiệu suất hệ thống và khả năng phục hồi của ứng dụng, qua đó tối ưu hóa trải nghiệm người dùng và đảm bảo sự ổn định.
 - **Netflix**: Áp dụng Elasticsearch trong hệ thống đề xuất nội dung để phân tích hành vi của người dùng và tối ưu hóa các đề xuất, nhằm tăng cường sự tương tác và thỏa mãn nhu cầu cá nhân hóa cao của người dùng.
 
-**3. Ngành Y Tế**
+**3. Ngành Y tế**
 - **Mayo Clinic**: Sử dụng Elasticsearch để xử lý và phân tích dữ liệu lớn từ hồ sơ bệnh án điện tử. Việc này giúp các bác sĩ và nhân viên y tế nhanh chóng truy cập vào thông tin chính xác, cải thiện chất lượng chăm sóc và tăng cường khả năng chẩn đoán.
 - **Pfizer**: Triển khai Elasticsearch trong nghiên cứu dược phẩm để tăng tốc độ phân tích dữ liệu thử nghiệm lâm sàng. Công nghệ này giúp Pfizer rút ngắn thời gian đưa thuốc mới ra thị trường, đồng thời tăng cường khả năng phân tích dữ liệu phức tạp.
 - **Johnson & Johnson**: Áp dụng Elastic Security để bảo vệ dữ liệu nhạy cảm và tuân thủ các quy định về bảo mật. Hệ thống bảo mật tăng khả năng bảo mật dữ liệu nghiên cứu và thử nghiệm, giúp công ty tuân thủ các tiêu chuẩn an toàn cao nhất.
 
-**4. Ngành Bán Lẻ**
+**4. Ngành Retails**
 - **eBay**: Ứng dụng Elasticsearch cho việc cải tiến khả năng tìm kiếm sản phẩm, giúp người dùng tìm thấy sản phẩm mong muốn nhanh chóng và chính xác hơn. Công cụ này cũng hỗ trợ eBay trong việc phân tích xu hướng mua sắm để tối ưu hóa kho hàng và chiến lược kinh doanh.
 - **Walmart**: Sử dụng Elastic Observability để theo dõi hiệu suất của hệ thống quản lý hàng tồn kho. Nền tảng này giúp Walmart phát hiện và giải quyết các vấn đề về hệ thống nhanh chóng, đảm bảo tính liên tục và hiệu quả của dịch vụ.
 - **Zalando**: Triển khai Elasticsearch để nâng cao trải nghiệm mua sắm trực tuyến, thông qua việc cá nhân hóa các đề xuất sản phẩm dựa trên hành vi và sở thích của từng người dùng. Công nghệ này giúp Zalando cải thiện tỷ lệ chuyển đổi và tăng trưởng doanh số.
