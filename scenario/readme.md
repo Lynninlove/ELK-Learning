@@ -45,6 +45,8 @@ Elastic Security là một phần quan trọng của Elastic Stack, cung cấp c
 - **Thu thập dữ liệu**: Sử dụng Elastic Agent để thu thập dữ liệu từ các điểm cuối, máy chủ và mạng.
 - **Phân tích mối đe dọa**: Áp dụng các mô hình học máy để phân tích và phát hiện hành vi đáng ngờ hoặc bất thường.
 - **Điều phối phản hồi**: Tự động hóa quy trình phản hồi, bao gồm cô lập máy tính bị nhiễm hoặc thực hiện các bước khôi phục cần thiết.
+- **Quản lý dữ liệu nhạy cảm**: Sử dụng các chính sách bảo mật dữ liệu để định cấu hình quyền truy cập dữ liệu dựa trên vai trò và mức độ cần thiết.
+- **Phân tích nâng cao**: Tích hợp các công cụ phân tích để nhận diện kịp thời các hành vi bất thường có thể chỉ ra hành vi gian lận hoặc rò rỉ thông tin.
 
 ### Kịch Bản 2: Quản lý log dữ liệu (Logging)
 **Mô tả**: Một tổ chức y tế sử dụng Elastic Security để đảm bảo tuân thủ các quy định về bảo mật dữ liệu như HIPAA hoặc GDPR.
@@ -52,23 +54,13 @@ Elastic Security là một phần quan trọng của Elastic Stack, cung cấp c
 - **Kiểm soát truy cập**: Đảm bảo rằng chỉ những người dùng được phép mới có thể truy cập vào dữ liệu nhạy cảm.
 - **Báo cáo và kiểm toán**: Tự động tạo báo cáo để phục vụ cho việc kiểm toán và tuân thủ.
 
-### Kịch Bản 3: Giám sát và bảo vệ mạng (Network monitoring and protection)
-**Mô tả**: Một công ty công nghệ sử dụng Elastic Security để giám sát và bảo vệ mạng của mình khỏi các cuộc tấn công mạng.
-- **Phân tích lưu lượng mạng**: Sử dụng Elastic SIEM để phân tích lưu lượng mạng và phát hiện các dấu hiệu của mối đe dọa.
-- **Danh sách đen và trắng**: Thiết lập danh sách đen hoặc trắng cho các địa chỉ IP hoặc miền để kiểm soát truy cập mạng.
-- **Cảnh báo và phản ứng**: Nhận thông báo thời gian thực về các mối đe dọa và triển khai các biện pháp phòng thủ tự động.
-
-### Kịch Bản 4: Bảo vệ điểm cuối (Endpoint protection)
+### Kịch Bản 3: Bảo vệ điểm cuối (Endpoint protection)
 **Mô tả**: Các tổ chức thương mại điện tử sử dụng Elastic Security để bảo vệ các thiết bị điểm cuối khỏi phần mềm độc hại và ransomware.
 - **Giám sát điểm cuối**: Lắp đặt Elastic Agent trên các thiết bị để thu thập và phân tích dữ liệu bảo mật.
 - **Phát hiện phần mềm độc hại**: Sử dụng tính năng phát hiện dựa trên hành vi để nhận biết các hành động độc hại và cảnh báo kịp thời.
 - **Cô lập và khắc phục**: Tự động cô lập các thiết bị nhiễm bệnh và triển khai các biện pháp khắc phục để loại bỏ phần mềm độc hại và phục hồi dữ liệu.
-
-### Kịch Bản 5: Giải Pháp Bảo Mật Thông Tin Liên Doanh (Enterprise Data Security)
-**Mô tả**: Một tập đoàn tài chính quốc tế sử dụng Elastic Security để quản lý và bảo vệ thông tin doanh nghiệp, đặc biệt là trong việc bảo mật thông tin cá nhân và tài chính của khách hàng.
-- **Quản lý dữ liệu nhạy cảm**: Sử dụng các chính sách bảo mật dữ liệu để định cấu hình quyền truy cập dữ liệu dựa trên vai trò và mức độ cần thiết.
-- **Phân tích nâng cao**: Tích hợp các công cụ phân tích để nhận diện kịp thời các hành vi bất thường có thể chỉ ra hành vi gian lận hoặc rò rỉ thông tin.
-- **Hợp nhất bảo mật**: Sử dụng Elastic Security để tạo một hệ thống bảo mật hợp nhất, giúp giảm thiểu các điểm yếu và tăng cường khả năng bảo vệ thông tin toàn diện.
+- **Phân tích lưu lượng mạng**: Sử dụng Elastic SIEM để phân tích lưu lượng mạng và phát hiện các dấu hiệu của mối đe dọa.
+- **Cảnh báo và phản ứng**: Nhận thông báo thời gian thực về các mối đe dọa và triển khai các biện pháp phòng thủ tự động.
 
 ## Phân tích khách hàng
 
