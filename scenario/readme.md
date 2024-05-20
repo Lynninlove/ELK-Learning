@@ -8,33 +8,33 @@ Elastic Observability là một công cụ mạnh mẽ giúp các tổ chức gi
 **Mô tả**: Một công ty công nghệ lớn sử dụng Elastic Observability để giám sát các dịch vụ phân tán trên nhiều môi trường đám mây và tại chỗ. Công cụ này giúp công ty nhanh chóng phát hiện, phân tích và giải quyết các vấn đề về hiệu suất hoặc sự cố.
 
 **Cách thực hiện**:
-1. **Tích hợp Elastic Agents**: Cài đặt Elastic Agents trên tất cả các máy chủ và dịch vụ để thu thập dữ liệu logs, metrics, và traces.
-2. **Phân tích và trực quan**: Sử dụng Kibana để trực quan hóa dữ liệu thu thập được từ các nguồn khác nhau, giúp xác định mối quan hệ nguyên nhân và hiệu quả giữa các sự kiện.
-3. **Cảnh báo thời gian thực**: Thiết lập các cảnh báo dựa trên ngưỡng xác định trước để phát hiện sớm các vấn đề tiềm ẩn trước khi chúng ảnh hưởng đến khách hàng.
+- **Tích hợp Elastic Agents**: Cài đặt Elastic Agents trên tất cả các máy chủ và dịch vụ để thu thập dữ liệu logs, metrics, và traces.
+- **Phân tích và trực quan**: Sử dụng Kibana để trực quan hóa dữ liệu thu thập được từ các nguồn khác nhau, giúp xác định mối quan hệ nguyên nhân và hiệu quả giữa các sự kiện.
+- **Cảnh báo thời gian thực**: Thiết lập các cảnh báo dựa trên ngưỡng xác định trước để phát hiện sớm các vấn đề tiềm ẩn trước khi chúng ảnh hưởng đến khách hàng.
 
 ### Kịch Bản 2: Tối ưu hóa hiệu suất ứng dụng
 **Mô tả**: Một công ty thương mại điện tử sử dụng Elastic Observability để phân tích hiệu suất của các ứng dụng web và di động, nhằm mục đích tăng tốc thời gian tải trang và cải thiện trải nghiệm người dùng.
 
 **Cách thực hiện**:
-1. **Thu thập dữ liệu ứng dụng**: Tích hợp APM (Application Performance Monitoring) với các ứng dụng để thu thập dữ liệu về thời gian xử lý, lỗi và sử dụng tài nguyên.
-2. **Phân tích giao dịch**: Sử dụng các công cụ phân tích của Elastic để xem xét các giao dịch đơn lẻ, từ đó xác định các điểm nghẽn hiệu suất và cải thiện mã nguồn.
-3. **Cải tiến liên tục**: Áp dụng phương pháp cải tiến liên tục dựa trên dữ liệu thu thập được để thực hiện các cập nhật và tối ưu hóa hiệu suất.
+- **Thu thập dữ liệu ứng dụng**: Tích hợp APM (Application Performance Monitoring) với các ứng dụng để thu thập dữ liệu về thời gian xử lý, lỗi và sử dụng tài nguyên.
+- **Phân tích giao dịch**: Sử dụng các công cụ phân tích của Elastic để xem xét các giao dịch đơn lẻ, từ đó xác định các điểm nghẽn hiệu suất và cải thiện mã nguồn.
+- **Cải tiến liên tục**: Áp dụng phương pháp cải tiến liên tục dựa trên dữ liệu thu thập được để thực hiện các cập nhật và tối ưu hóa hiệu suất.
 
 ### Kịch Bản 3: An ninh mạng và phát hiện bất thường
 **Mô tả**: Ngân hàng triển khai Elastic Observability để giám sát các hoạt động đăng nhập và giao dịch, giúp phát hiện và ngăn chặn bất thường.
 
 **Cách thực hiện**:
-1. **Giám sát hoạt động người dùng**: Theo dõi và phân tích hành vi người dùng để xác định các hoạt động bất thường có thể chỉ ra hành vi gian lận.
-2. **Tích hợp Machine Learning**: Sử dụng các mô hình học máy của Elastic để phát hiện các mẫu hành vi gian lận dựa trên dữ liệu lịch sử.
-3. **Thông báo gian lận realtime**: Thiết lập hệ thống thông báo tức thì khi phát hiện gian lận, cho phép đội ngũ an ninh nhanh chóng điều tra và giải quyết vấn đề.
+- **Giám sát hoạt động người dùng**: Theo dõi và phân tích hành vi người dùng để xác định các hoạt động bất thường có thể chỉ ra hành vi gian lận.
+- **Tích hợp Machine Learning**: Sử dụng các mô hình học máy của Elastic để phát hiện các mẫu hành vi gian lận dựa trên dữ liệu lịch sử.
+- **Thông báo gian lận realtime**: Thiết lập hệ thống thông báo tức thì khi phát hiện gian lận, cho phép đội ngũ an ninh nhanh chóng điều tra và giải quyết vấn đề.
 
 ### Kịch Bản 4: Giám sát cơ sở hạ tầng đám mây
 **Mô tả**: Một công ty công nghệ sử dụng Elastic Observability để theo dõi và quản lý cơ sở hạ tầng đám mây trên nhiều nhà cung cấp dịch vụ, nhằm đảm bảo hiệu suất và sự ổn định.
 
 **Cách thực hiện**:
-1. **Trung tâm dữ liệu Cloud**: Sử dụng Elastic Observability để theo dõi các máy chủ và dịch vụ trên AWS, Azure và Google Cloud, cung cấp cái nhìn tổng quan về hiệu suất và sử dụng tài nguyên.
-2. **Phân tích Log**: Thu thập và phân tích logs từ các máy chủ và ứng dụng để phát hiện sớm các sự cố tiềm ẩn, nhằm ngăn chặn sự cố trước khi chúng gây ảnh hưởng đến dịch vụ.
-3. **Tối ưu hóa chi phí**: Phân tích sử dụng tài nguyên để xác định các cơ hội giảm chi phí, chẳng hạn như thu hẹp quy mô tài nguyên khi không cần thiết.
+- **Trung tâm dữ liệu Cloud**: Sử dụng Elastic Observability để theo dõi các máy chủ và dịch vụ trên AWS, Azure và Google Cloud, cung cấp cái nhìn tổng quan về hiệu suất và sử dụng tài nguyên.
+- **Phân tích Log**: Thu thập và phân tích logs từ các máy chủ và ứng dụng để phát hiện sớm các sự cố tiềm ẩn, nhằm ngăn chặn sự cố trước khi chúng gây ảnh hưởng đến dịch vụ.
+- **Tối ưu hóa chi phí**: Phân tích sử dụng tài nguyên để xác định các cơ hội giảm chi phí, chẳng hạn như thu hẹp quy mô tài nguyên khi không cần thiết.
 
 ## 2 Security
 
