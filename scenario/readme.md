@@ -36,7 +36,7 @@ Elastic Observability là một công cụ mạnh mẽ giúp các tổ chức gi
 - **Phân tích Log**: Thu thập và phân tích logs từ các máy chủ và ứng dụng để phát hiện sớm các sự cố tiềm ẩn, nhằm ngăn chặn sự cố trước khi chúng gây ảnh hưởng đến dịch vụ.
 - **Tối ưu hóa chi phí**: Phân tích sử dụng tài nguyên để xác định các cơ hội giảm chi phí, chẳng hạn như thu hẹp quy mô tài nguyên khi không cần thiết.
 
-## 2 Security
+## Security
 
 Elastic Security là một phần quan trọng của Elastic Stack, cung cấp các giải pháp bảo mật toàn diện cho việc phân tích, giám sát và phản hồi trước các mối đe dọa. 
 
@@ -70,7 +70,7 @@ Elastic Security là một phần quan trọng của Elastic Stack, cung cấp c
 - **Phân tích nâng cao**: Tích hợp các công cụ phân tích để nhận diện kịp thời các hành vi bất thường có thể chỉ ra hành vi gian lận hoặc rò rỉ thông tin.
 - **Hợp nhất bảo mật**: Sử dụng Elastic Security để tạo một hệ thống bảo mật hợp nhất, giúp giảm thiểu các điểm yếu và tăng cường khả năng bảo vệ thông tin toàn diện.
 
-## 3 Phân tích khách hàng
+## Phân tích khách hàng
 
 **1. Ngành Tài chính**
 - **ING**: Sử dụng Elasticsearch để quản lý và phân tích dữ liệu giao dịch tài chính một cách hiệu quả. ING đã tích hợp Elasticsearch vào các hệ thống để cải thiện khả năng tìm kiếm và phân tích dữ liệu thời gian thực, giúp tăng cường tính minh bạch và tốc độ phản hồi trong các giao dịch.
